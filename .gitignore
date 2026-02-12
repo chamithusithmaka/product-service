@@ -1,0 +1,37 @@
+# Maven / Java
+target/
+*.jar
+*.war
+*.class
+*.log
+
+# Spring Boot
+spring.log
+
+# H2 Database
+*.h2.db
+*.mv.db
+*.trace.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Others
+*.swp
+*.tmp
